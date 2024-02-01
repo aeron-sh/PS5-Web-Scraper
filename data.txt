@@ -1,0 +1,7 @@
+GameStop', 'Unavailable', '22/01/2022 21:28:08', 'https://www.gamestop.ca/PS5/Games/877522/playstation-5-only-available-for-purchase-in-a-bundle', 'DISC
+GameStop', 'Unavailable', '22/01/2022 21:28:09', 'https://www.gamestop.ca/PS5/Games/877523/playstation-5-digital-edition-only-available-for-purchase-in-a-bundle', 'DIGI
+Amazon', 'Available', '22/01/2022 21:28:09', 'https://www.amazon.ca/PlayStation-5-Console/dp/B08GSC5D9G', 'DISC
+Amazon', 'Available', '22/01/2022 21:28:09', 'https://www.amazon.ca/Playstation-3005721-PlayStation-Digital-Edition/dp/B08GS1N24H ', 'DIGI
+Sony', 'Unavailable', '22/01/2022 21:28:09', 'https://direct.playstation.com/en-us/consoles/console/playstation5-console.3006646', 'DISC
+Sony', 'Unavailable', '22/01/2022 21:28:10', 'https://direct.playstation.com/en-us/consoles/console/playstation5-console.3006646', 'DIGI
+Canada Computers', 'Unavailable', '22/01/2022 21:28:10', 'https://www.canadacomputers.com/product_info.php?cPath=13_1860_1861_3892&item_id=205551', 'DISC
